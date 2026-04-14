@@ -1,10 +1,6 @@
 # jpa03-nickkamenica
 
-```
-Running at: https://jpa03-nickkamenica.dokku-13.cs.ucsb.edu/
-```
-
-Running at: <https://starter-jpa03.dokku-00.cs.ucsb.edu>
+Running at: https://jpa03-nickkamenica.dokku-13.cs.ucsb.edu
 
 # Configuring GitHub Pages for the documentation
 
